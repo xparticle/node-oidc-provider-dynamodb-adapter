@@ -1,4 +1,4 @@
-FROM node:6.10.3
+FROM node:14.15.0
 
 WORKDIR /oidc-provider-dynamodb-adapter
 

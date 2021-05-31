@@ -24,12 +24,12 @@
     "@babel/polyfill": "^7.0.0-beta.34",
     "@babel/preset-env": "^7.0.0-beta.34",
     "@babel/register": "^7.0.0-beta.34",
-    "oidc-provider": "^2.8.0",
+    "oidc-provider": "^7.4.1",
     "whatwg-url": "^6.4.0"
   },
   "dependencies": {
     "aws-sdk": "^2.164.0",
-    "joi": "^13.0.2",
-    "vogels": "^2.2.0"
+    "dynogels": "^9.1.0",
+    "joi": "^13.0.2"
   }
 }
